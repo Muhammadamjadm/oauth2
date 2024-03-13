@@ -12,5 +12,5 @@ require (
 	cloud.google.com/go/compute v1.20.1 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	golang.org/x/net v0.20.0 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
